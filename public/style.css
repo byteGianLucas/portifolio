@@ -1,0 +1,77 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.social {
+    height: 45px;
+    width: 50px;
+    margin: 5px;
+}
+
+.github {
+    height: 55px;
+    width: 60px;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: brown;
+    width: 380px;
+    height: 830px;
+    font-size: 20px;
+}
+
+.my-photo {
+    margin-top: 220px;
+    height: 180px;
+    border-radius: 100%;
+    border: 5px rgb(240, 81, 81) solid;
+}
+
+/* Colocar as informações pro lado */
+.container {
+    display: flex;
+}
+
+.information {
+    margin-top: 170px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+
+span {
+    color: brown;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.text-two {
+    color: gray;
+}
+
+a:hover {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+ol {
+    font-size: 31px;
+}
+
+ul {
+    font-size: 31px;
+}
+
+.color-secondary {
+    color: white;
+}
